@@ -1,0 +1,17 @@
+{
+  "common": {
+    "version": "Versija",
+    "invalid_configuration": "Invalid configuration",
+    "show_warning": "Show Warning",
+    "show_error": "Show Error",
+    "uv_index": "UV Indeks",
+    "uv_risk": "UV Risks"
+  },
+  "uv_levels": {
+    "low": "Zems",
+    "moderate": "Vidējs",
+    "high": "Liels",
+    "very_high": "Ļoti liels",
+    "extreme": "Ekstrēms"
+  }
+}
